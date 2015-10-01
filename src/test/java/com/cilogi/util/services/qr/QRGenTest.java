@@ -47,6 +47,6 @@ public class QRGenTest {
                 .onOff(0xff0000ff, 0x00ffffff)
                 .quietZone(4)
                 .toData();
-        assertEquals(1107, data.length);
+        assertEquals(1421, data.length);
     }
 }

@@ -23,19 +23,19 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.cilogi</groupId>
+            <groupId>com.cilogi</groupId>
             <artifactId>cilogi-base</artifactId>
-            <version>v1.0.2</version>
+            <version>1.1.0</version>
         </dependency>
         <dependency>
         	<groupId>com.google.zxing</groupId>
         	<artifactId>javase</artifactId>
-        	<version>2.1</version>
+        	<version>3.2.1</version>
         </dependency>
         <dependency>
           <groupId>org.slf4j</groupId>
           <artifactId>slf4j-api</artifactId>
-          <version>1.7.5</version>
+          <version>1.7.7</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
@@ -45,13 +45,13 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>14.0.1</version>
+            <version>18.0</version>
         </dependency>
 
         <dependency>
           <groupId>org.slf4j</groupId>
           <artifactId>slf4j-log4j12</artifactId>
-          <version>1.7.5</version>
+          <version>1.7.7</version>
           <scope>test</scope>
         </dependency>
     </dependencies>
